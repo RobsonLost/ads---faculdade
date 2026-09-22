@@ -16,8 +16,8 @@ Além de funcionar como um diário de estudos, este repositório também serve c
 
 | Semestre | Status | Disciplinas |
 |---|---|---|
-| 1º Semestre | ✅ Concluído | Arquitetura e Organização de Computadores; Segurança e Auditoria de Sistemas; Fundamentos da Inteligência Artificial Aplicada; Redes de Computadores; Interface e Usabilidade; Engenharia de Software |
-| 2º Semestre | 🚧 Em andamento | Projeto de Software; Análise e Modelagem de Sistemas; Linguagem de Programação; Projeto Integrado Síntese - ADS |
+| 1º Semestre | ✅ Concluído | Arquitetura e Organização de Computadores; Segurança e Auditoria de Sistemas; Fundamentos da Inteligência Artificial Aplicada; Redes de Computadores; Interface e Usabilidade |
+| 2º Semestre | 🚧 Em andamento | Engenharia de Software; Projeto de Software; Análise e Modelagem de Sistemas; Linguagem de Programação; Projeto Integrado Síntese - ADS |
 
 ## Projetos acadêmicos
 
